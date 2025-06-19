@@ -11,11 +11,12 @@ Click on your choice and play against the computer!
 - Winner announcement after each round
 - Responsive layout (mobile friendly)
 
-## 🚀 Demo
+## 🚀screenshots
 
-![screenshot](./screenshot.png)
+(./screenshots/screenshot_1.png)
+(./screenshots/screenshot_2.png)
 
-[Live Demo](https://your-live-demo-link.com) <!-- Replace with your GitHub Pages or live link -->
+
 
 ## 🛠️ Built With
 
