@@ -13,8 +13,8 @@ Click on your choice and play against the computer!
 
 ## 🚀screenshots
 
-(./screenshots/screenshot_1.png)
-(./screenshots/screenshot_2.png)
+(screenshots/screenshot_1.png)
+(screenshots/screenshot_2.png)
 
 
 
